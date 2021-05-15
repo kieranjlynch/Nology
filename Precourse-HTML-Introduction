@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+  <title>My Page Title</title>
+</head>
+<body>
+  <h1>My Page Header</h1>
+  <h2>Smaller header</h2>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h3>Even smaller header</h3>
+
+  <h6>Smallest header</h6>
+
+  <br>
+
+  <p>This is a paragraph</p>
+  <p>This is another paragraph</p>
+
+  <br> 
+
+  <p>
+    Here is a link to <a href="https//www.google.com">Google</a href>
+  </p>
+</body>
+</html>

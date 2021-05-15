@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<head>
+  <title>HTML Mini Challenge</title>
+</head>
+<body>
+  <h3>This is a medium sized header!</h3>
+  <br />
+  <br />
+  <p>
+This is a paragraph which links to my favourite site on the web...
+<br>
+<a href="https://www.twitter.com/">Twitter!</a>
+  </p>
+</body>
+</html>

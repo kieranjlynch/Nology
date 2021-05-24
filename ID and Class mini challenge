@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Classes and Ids Mini Challenge</title>
+</head>
+<body>
+<h1 id="firstHeader">First Header</h1>
+<h1 class="red-header">Second h1</h1>
+<h2 class="red-header"></h2>
+
+<style>
+#firstHeader {
+color: blue;
+}
+
+.red-header {
+color: red;
+}
+
+</style>
+</body>
+</html>

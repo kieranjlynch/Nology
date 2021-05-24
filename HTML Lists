@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <title>HTML Lists</title>
+</head>
+<body>
+  <h3> My nested todo list</h3>
+  <ul>
+    <li>Feed the cat</li>
+    <li>
+    Go to work
+    <ol>
+      <li> Talk to sarah</li>
+      <li> Write a new lesson</li>
+  </ol>
+  </li>
+  <li>Clean the kitchen</li>
+  </ul>
+</body>
+</html>

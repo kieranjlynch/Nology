@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Lists Challenge</title>
+</head>
+<body>
+  <ul>
+    <li>Start face to face course</li>
+    <li>Finish pre course work</li>
+    <li>Commit to GitHub</li>
+  </ul>
+
+  <ol>
+    <li>finish pre course work</li>
+    <li>commit to GitHub</li>
+    <li>start face to face course</li>
+  </ol>
+</body>
+</html>

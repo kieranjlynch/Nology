@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<div class="container">
+  <p>This is a direct child</p>
+  <p>This is another direct child</p>
+
+  <span>
+    <p>This is not a direct child</p>
+  </span>
+</div>
+
+<p>This is the first sibling</p>
+<p>This is the second sibling</p>
+<p>Third sibling</p>
+
+  <style>
+    .container {
+    border: 2px solid black;
+    }
+
+    .container p {
+    color: red;
+    }
+
+    .container > p {
+    color: blue;
+    }
+
+    .container + p {
+    color: orange;
+    }
+
+    container ~ p {
+    color: brown;
+    }
+  </style>
+</body>
+</html>

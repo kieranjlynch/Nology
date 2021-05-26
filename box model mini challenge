@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>box model mini challenge</title>
+</head>
+
+<body>
+  <h1>This is an h1 header</h1>
+
+  <p>This is a paragraph</p>
+</body>
+
+<style>
+h1 {
+  padding: 20px;
+  border: 2px solid black;
+  margin: 20px;
+}
+
+p {
+  border: 3px solid black;
+  margin-bottom: 10px;
+}
+</style>
+
+</html>

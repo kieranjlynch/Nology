@@ -36,24 +36,27 @@
 
   <main>
     <form class="contact-form">
+
       <label for="email">Email: </label>
       <input type="text" name="email" id="email" required>
 
       <label for="fullName">Full Name: </label>
       <input type="text" name="fullName" id="fullName" required>
-      
+
+      <label for="feedbackType">Feedback Type: </label>
       <select name="feedbackType" id="feedbackType">
         <option value="review">Review</option>
         <option value="complaint">Complaint</option>
         <option value="event">Book Event</option>
       </select>
 
+      <label for="comment">Comment: </label>
       <textarea name="comment" id="comment" rows="3" cols="30" required>
 Leave your comment here
       </textarea>
 
       <button>Clear</button>
-      <input type="submit">
+      <input type="submit" value="Submit">
 
     </form>
   </main>
